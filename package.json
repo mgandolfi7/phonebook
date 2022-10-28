@@ -1,0 +1,22 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "a simple phonebook app using express and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgandolfi7/phonebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgandolfi7/phonebook/issues"
+  },
+  "homepage": "https://github.com/mgandolfi7/phonebook#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
